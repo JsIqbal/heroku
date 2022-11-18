@@ -7,6 +7,4 @@ const port = process.env.PORT || 3200;
 server.use(middlewares);
 server.use(router);
 
-server.listen(() => {
-    console.log(`server is running on port ${port}...`);
-});
+server.listen(port);
