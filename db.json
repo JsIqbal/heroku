@@ -19,6 +19,11 @@
             "id": 4,
             "name": "Iqbal The Great",
             "username": "sam"
+        },
+        {
+            "id": 5,
+            "name": "Testing Heroku",
+            "username": "Tester"
         }
     ]
 }
